@@ -17,4 +17,10 @@
     "autoprefixer": "latest",
     "typescript": "latest"
   }
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "export": "next export",
+  "start": "next start"
+}
 }
